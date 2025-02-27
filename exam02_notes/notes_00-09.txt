@@ -1,0 +1,17 @@
+C00 - int to str, all combinations of numbers
+C01 - bubble sort
+C02 - strncpy, non_printable(man ASCII)
+C03 - strncat, strlcat
+C04 - atoi, putbase
+C05 - fibonacci, recursive(prime)
+C06 - sort params (ASCII order using strcmp, bubble sort)
+C07 - malloc, convert base
+C08 - header file grammar, struct grammer
+C09 - ar -rc to compile a library, Makefile grammar, 
+      split() -> 1. function to check if char is in set
+      		 2. function to check array length
+      		 3. function to check word length
+      		 4. function to loop through the string and create
+      		    the array(skip to next letter if its divider)
+      		 5. function to put all of it together + malloc
+
